@@ -1,7 +1,7 @@
 # Easy Peasy
 ## Challenge Overview
 
-In this challenge, we were given a log (which has a broken flag in it), and our goal is to analyze the log and reconstruct the original flag.
+In this challenge, we were given a log (which has a broken flag in it), and our goal is to analyze the log and reconstruct the original flag. The difficulty level of this challenge is easy.
 Access the challenge here: https://learn.cylabacademy.org/library/527?page=1&category=5&workspace=true
 
 <img width="1382" height="630" alt="image" src="https://github.com/user-attachments/assets/6cb4bd43-f3ef-44c0-86f9-dc1c1708bdd7" />
