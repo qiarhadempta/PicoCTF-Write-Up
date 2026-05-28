@@ -1,4 +1,4 @@
-# Easy Peasy
+# Log Hunt
 ## Challenge Overview
 
 In this challenge, we were given a log (which has a broken flag in it), and our goal is to analyze the log and reconstruct the original flag. The difficulty level of this challenge is easy.  
