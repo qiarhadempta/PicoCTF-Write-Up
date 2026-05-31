@@ -12,8 +12,6 @@ Note: I'll be updating the table of contents every time I post a write up.
 
 ---
 
-## PicoCTF
-
 ### Cryptography
 | Challenge | Difficulty | Writeup |
 |-----------|------------|---------|
