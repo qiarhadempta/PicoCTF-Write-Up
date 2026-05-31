@@ -16,7 +16,7 @@ Link: https://learn.cylabacademy.org/library/530?page=2&workspace=true
 
 <img width="689" height="735" alt="image" src="https://github.com/user-attachments/assets/6a2f0512-881c-48f1-9065-a372ded3cb33" />
 
-### 3. So here, I used `exiftool` to analyze the file's metadata. On the Author line, it shows us a base64 string. 
+### 3. Here, I used `exiftool` to analyze the file's metadata. On the Author line, it shows us a base64 string. 
 
 <img width="1187" height="592" alt="image" src="https://github.com/user-attachments/assets/a4f3a514-57ca-4726-863d-6220e247c25a" />
 
