@@ -5,7 +5,6 @@ Author: [@qiarhadempta](https://github.com/qiarhadempta)
 ## Table of Contents
 Note: I'll be updating the table of contents every time I post a write up.
 
-[PicoCTF](#picoctf)
   - [Cryptography](#cryptography)
   - [Forensic](#forensic)
   - [General Skills](#general-skills)
