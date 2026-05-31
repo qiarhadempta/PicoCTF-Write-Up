@@ -1,5 +1,6 @@
-# CTF Writeups
+# PicoCTF Writeups
 Author: [@qiarhadempta](https://github.com/qiarhadempta)
+---
 
 ## Table of Contents
 Note: I'll be updating the table of contents every time I post a write up.
