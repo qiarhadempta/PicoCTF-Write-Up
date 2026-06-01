@@ -23,6 +23,7 @@ Note: I'll be updating the table of contents every time I post a write up.
 |-----------|------------|---------|
 | Hidden in Plainsight | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Forensic/Easy/Hidden-in-Plainsight.md) |
 | Riddle Registry | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Forensic/Easy/Riddle-Registry.md) |
+| So Meta | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Forensic/Medium/So-Meta.md) |
 
 ### General Skills
 | Challenge | Difficulty | Writeup |
