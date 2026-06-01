@@ -15,6 +15,7 @@ Note: I'll be updating the table of contents every time I post a write up.
 ### Cryptography
 | Challenge | Difficulty | Writeup |
 |-----------|------------|---------|
+| Hashcrack | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Cryptography/Easy/Hashcrack.md) |
 | Substitution 0 | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Cryptography/Medium/substitution0.md) |
 | Substitution 1 | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Cryptography/Medium/substitution1.md) |
 
