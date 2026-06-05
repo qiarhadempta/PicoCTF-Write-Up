@@ -14,12 +14,19 @@ Access the challenge here: https://learn.cylabacademy.org/learning-paths/17/138
 
 ## Solution
 
-### 1. Download the `.txt` file
+### 1. In the challenge, we are given some public values, such as c, n, and e
 
-### 2. The text is encrypted, but we can see the flag format at the end `pvncNDM{5YH5717Y710G_3I0XY710G_03055505}`
+```bash
+Decrypt my super sick RSA:
+c: 15341890103764929939105506004034128738090325640037083301857608662849501626260517
+n: 948406957756830799684818171639547165784816468744946013083947881743680617123566349
+e: 65537
+```
 
-<img width="1919" height="700" alt="image" src="https://github.com/user-attachments/assets/5fe20b7a-22d6-4f94-b746-aef61f011c2f" />
+### 2. To decrypt the message, we have to find d (private key). And to find d, we have to get the p and q values, which is the factor n
+Here, I'm using this website to get the factor of n: https://www.alpertron.com.ar/ECM.HTM, but it took me around 10 minutes and I haven't got the faster way to do it.
 
-### 3. In this challenge, I use this [online tool](https://quipqiup.com/) to decrypt the text. The flag is: `picoCTF{5UB5717U710N_3V0LU710N_03055505}`
+### 3. p = 1891771437429478964908181306574287207137 and q = 501332739776173570344039681219489434626477
+### 4. Once we got our p and q, we can calculate for phi (p-1)(q-1) and decrypt the message (m = c^d mod n) (python script attached here: py link)
+### 5. It turns out that the message is reversed, so at the end of the source code, I also put the script how to reverse it back
 
-<img width="1608" height="599" alt="image" src="https://github.com/user-attachments/assets/08c85a1d-c66c-4dfe-be6f-8695a057a6ed" />
