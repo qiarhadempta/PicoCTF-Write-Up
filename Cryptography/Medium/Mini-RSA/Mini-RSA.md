@@ -24,33 +24,23 @@ ciphertext (c): 5709720175026317841944505166332182779419760031115432215563425901
 ---
 
 ## Solution
-
-### 1. Identify the given values
-The challenge provides the following public RSA values:
-
-```bash
-c: 15341890103764929939105506004034128738090325640037083301857608662849501626260517
-n: 948406957756830799684818171639547165784816468744946013083947881743680617123566349
-e: 65537
-```
-
-### 2. Factor n to get p and q
-Since the hint tells us n is just over 100 bits, it's small enough to be factored. Using the integer factorization tool at https://www.alpertron.com.ar/ECM.HTM, we get:
-
+In this case, it's better for us to know how the RSA works mathematically. In RSA, encryption works as:
 ``` bash
-p = 1891771437429478964908181306574287207137
-q = 501332739776173570344039681219489434626477
+c = m^e mod n
 ```
-
-### 3. Compute the private key d
-With p and q known, we can compute:
-
+When e is very small (here e=3) and the message is padded to be large, `m^e` ends up only slightly larger than n. This means the mod n operation barely cuts anything off, so the relationship between c and m is weak.
+Specifically:
 ``` bash
-phi = (p-1)(q-1)
-d   = modular inverse of e mod phi
+m^e = k*n + c
 ```
+where k is a very small number. We can brute-force k by trying:
+``` bash
+cbrt(c + 0*n) → perfect cube? → m found!
+cbrt(c + 1*n) → perfect cube? → m found!
+cbrt(c + 2*n) → perfect cube? → m found!
+...
+```
+So, to solve this, we can use gmpy2.iroot(c, e) which returns the integer e-th root and a boolean confirming whether it's a perfect root. The python solver can be accessed [here](https://github.com/qiarhadempta/PicoCTF/edit/main/Cryptography/Medium/Mini-RSA/miniRSA.py)
 
-### 4. Decrypt and recover the flag
-Using m = c^d mod n, we recover the plaintext. The result came out reversed, so a final string reversal was applied. Access the python script [here](https://github.com/qiarhadempta/PicoCTF/blob/main/Cryptography/Medium/Mind-Your-Ps-and-Qs/MindYourPsAndQs.py)
+Flag: `picoCTF{e_sh0u1d_b3_lArg3r_92f4d5a5}`
 
-Flag: `picoCTF{1lsma11_N_0n_g0od_1dc7ae91} `
