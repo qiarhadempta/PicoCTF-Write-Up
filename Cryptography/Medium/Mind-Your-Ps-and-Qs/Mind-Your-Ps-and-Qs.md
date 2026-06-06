@@ -14,19 +14,32 @@ Access the challenge here: https://learn.cylabacademy.org/learning-paths/17/138
 
 ## Solution
 
-### 1. In the challenge, we are given some public values, such as c, n, and e
+### 1. Identify the given values
+The challenge provides the following public RSA values:
 
 ```bash
-Decrypt my super sick RSA:
 c: 15341890103764929939105506004034128738090325640037083301857608662849501626260517
 n: 948406957756830799684818171639547165784816468744946013083947881743680617123566349
 e: 65537
 ```
 
-### 2. To decrypt the message, we have to find d (private key). And to find d, we have to get the p and q values, which is the factor n
-Here, I'm using this website to get the factor of n: https://www.alpertron.com.ar/ECM.HTM, but it took me around 10 minutes and I haven't got the faster way to do it.
+### 2. Factor n to get p and q
+Since the hint tells us n is just over 100 bits, it's small enough to be factored. Using the integer factorization tool at https://www.alpertron.com.ar/ECM.HTM, we get:
 
-### 3. p = 1891771437429478964908181306574287207137 and q = 501332739776173570344039681219489434626477
-### 4. Once we got our p and q, we can calculate for phi (p-1)(q-1) and decrypt the message (m = c^d mod n) (python script attached here: py link)
-### 5. It turns out that the message is reversed, so at the end of the source code, I also put the script how to reverse it back
+``` bash
+p = 1891771437429478964908181306574287207137
+q = 501332739776173570344039681219489434626477
+```
 
+### 3. Compute the private key d
+With p and q known, we can compute:
+
+``` bash
+phi = (p-1)(q-1)
+d   = modular inverse of e mod phi
+```
+
+### 4. Decrypt and recover the flag
+Using m = c^d mod n, we recover the plaintext. The result came out reversed, so a final string reversal was applied. Access the python script [here](https://github.com/qiarhadempta/PicoCTF/blob/main/Cryptography/Medium/Mind-Your-Ps-and-Qs/MindYourPsAndQs.py)
+
+Flag: `picoCTF{1lsma11_N_0n_g0od_1dc7ae91} `
