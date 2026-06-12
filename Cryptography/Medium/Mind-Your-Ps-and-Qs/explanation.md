@@ -40,6 +40,7 @@ d   = modular inverse of e mod phi
 ```
 
 ### 4. Decrypt and recover the flag
-Using m = c^d mod n, we recover the plaintext. The result came out reversed, so a final string reversal was applied. Access the python script [here](https://github.com/qiarhadempta/PicoCTF/blob/main/Cryptography/Medium/Mind-Your-Ps-and-Qs/MindYourPsAndQs.py)
+Using m = c^d mod n, we recover the plaintext. The result came out reversed, so a final string reversal was applied.  
+Access the python script [here](https://github.com/qiarhadempta/PicoCTF/blob/main/Cryptography/Medium/Mind-Your-Ps-and-Qs/solver.py)
 
 Flag: `picoCTF{1lsma11_N_0n_g0od_1dc7ae91} `
