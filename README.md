@@ -21,6 +21,7 @@ Note: I'll be updating the table of contents every time I post a write up.
 | Substitution 1 | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Cryptography/Medium/substitution1.md) |
 | Mind Your Ps and Qs | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Mind-Your-Ps-and-Qs) |
 | Mini RSA | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Mini-RSA) |
+| Crack the Power | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Crack-the-Power) |
 
 ### Forensic
 | Challenge | Difficulty | Writeup |
