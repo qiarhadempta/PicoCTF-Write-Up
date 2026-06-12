@@ -6,6 +6,7 @@ Author: [@qiarhadempta](https://github.com/qiarhadempta)
 Note: I'll be updating the table of contents every time I post a write up.
 
   - [Cryptography](#cryptography)
+  - [Web Exploitation](#web-exploitation)
   - [Forensic](#forensic)
   - [General Skills](#general-skills)
   - [Reverse Engineering](#reverse-engineering)
@@ -23,6 +24,11 @@ Note: I'll be updating the table of contents every time I post a write up.
 | Mini RSA | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Mini-RSA) |
 | Crack the Power | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Crack-the-Power) |
 | HideToSee | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/HideToSee)
+
+### Web Exploitation
+| Challenge | Difficulty | Writeup |
+|-----------|------------|---------|
+| WebDecode | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/WebDecode.md) |
 
 ### Forensic
 | Challenge | Difficulty | Writeup |
