@@ -40,7 +40,7 @@ cbrt(c + 1*n) → perfect cube? → m found!
 cbrt(c + 2*n) → perfect cube? → m found!
 ...
 ```
-So, to solve this, we can use gmpy2.iroot(c, e) which returns the integer e-th root and a boolean confirming whether it's a perfect root. The python solver can be accessed [here](https://github.com/qiarhadempta/PicoCTF/edit/main/Cryptography/Medium/Mini-RSA/miniRSA.py)
+So, to solve this, we can use gmpy2.iroot(c, e) which returns the integer e-th root and a boolean confirming whether it's a perfect root. The python solver can be accessed [here](https://github.com/qiarhadempta/PicoCTF/blob/main/Cryptography/Medium/Mini-RSA/miniRSA.py)
 
 Flag: `picoCTF{e_sh0u1d_b3_lArg3r_92f4d5a5}`
 
