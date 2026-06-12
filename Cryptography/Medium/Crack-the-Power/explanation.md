@@ -37,6 +37,6 @@ We can recover the message in a straightforward way:
 m = 20th_root(c)
 ```
 
-Check the python script [here]()
+Check the python script [here](https://github.com/qiarhadempta/PicoCTF/blob/main/Cryptography/Medium/Crack-the-Power/solver.py)
 
 Flag: `picoCTF{t1ny_e_381870dd}`
