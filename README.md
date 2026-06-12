@@ -22,6 +22,7 @@ Note: I'll be updating the table of contents every time I post a write up.
 | Mind Your Ps and Qs | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Mind-Your-Ps-and-Qs) |
 | Mini RSA | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Mini-RSA) |
 | Crack the Power | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Crack-the-Power) |
+| HideToSee | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/HideToSee)
 
 ### Forensic
 | Challenge | Difficulty | Writeup |
