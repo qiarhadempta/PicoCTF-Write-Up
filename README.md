@@ -29,6 +29,7 @@ Note: I'll be updating the table of contents every time I post a write up.
 | Challenge | Difficulty | Writeup |
 |-----------|------------|---------|
 | WebDecode | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/WebDecode.md) |
+| Old Seessions | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/Old-Sesions.md) |
 
 ### Forensic
 | Challenge | Difficulty | Writeup |
