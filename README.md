@@ -1,10 +1,10 @@
 # PicoCTF Writeups
-Author: [@qiarhadempta](https://github.com/qiarhadempta)
----
+
+Author: [@qiarhadempta](https://github.com/qiarhadempta)    
+
+Note: English is my second language, so I use AI at some point to correct my grammar. I also will be updating the table of contents every time I post a write up.
 
 ## Table of Contents
-Note: I'll be updating the table of contents every time I post a write up.
-
   - [Cryptography](#cryptography)
   - [Web Exploitation](#web-exploitation)
   - [Forensic](#forensic)
