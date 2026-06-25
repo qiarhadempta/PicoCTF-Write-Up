@@ -32,6 +32,7 @@ Note: English is my second language, so I use AI at some point to correct my gra
 | Old Seessions | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/Old-Sesions.md) |
 | Crack the Gate 1 | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/Crack-the-Gate-1.md) |
 | Head Dump | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/Head-Dump.md) |
+| Cookies | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/Cookies.md) | 
 
 ### Forensic
 | Challenge | Difficulty | Writeup |
