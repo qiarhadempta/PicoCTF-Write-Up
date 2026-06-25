@@ -28,6 +28,7 @@ Note: English is my second language, so I use AI at some point to correct my gra
 ### Web Exploitation
 | Challenge | Difficulty | Writeup |
 |-----------|------------|---------|
+| Insp3ct0r | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/Insp3ct0r.md) |
 | WebDecode | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/WebDecode.md) |
 | Old Seessions | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/Old-Sesions.md) |
 | Crack the Gate 1 | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/Crack-the-Gate-1.md) |
