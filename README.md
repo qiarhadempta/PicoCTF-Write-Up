@@ -47,6 +47,7 @@ Note: English is my second language, so I use AI at some point to correct my gra
 |-----------|------------|---------|
 | Log Hunt | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/GeneralSkills/Easy/Log-Hunt.md) |
 | Codebook | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Codebook.md) |
+| Magikarp Ground Mission | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Magikarp-Ground-Mission.md) |
 
 ### Reverse Engineering
 | Challenge | Difficulty | Writeup |
