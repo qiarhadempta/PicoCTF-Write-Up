@@ -24,7 +24,6 @@ Note: English is my second language, so I use AI at some point to correct my gra
 | Mini RSA | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Mini-RSA) |
 | Crack the Power | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Crack-the-Power) |
 | HideToSee | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/HideToSee) |
-| No FA | Medium | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/tree/main/WebExploitation/Medium) |
 
 ### Web Exploitation
 | Challenge | Difficulty | Writeup |
@@ -36,6 +35,7 @@ Note: English is my second language, so I use AI at some point to correct my gra
 | Head Dump | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/Head-Dump.md) |
 | Cookies | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/Cookies.md) | 
 | logon | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/WebExploitation/Easy/logon.md) | 
+| No FA | Medium | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/tree/main/WebExploitation/Medium) |
 
 ### Forensic
 | Challenge | Difficulty | Writeup |
