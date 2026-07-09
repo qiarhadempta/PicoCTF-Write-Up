@@ -53,6 +53,7 @@ Note: English is my second language, so I use AI at some point to correct my gra
 | Codebook | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Codebook.md) |
 | Magikarp Ground Mission | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Magikarp-Ground-Mission.md) |
 | Piece by Piece | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Piece-by-Piece.md) |
+| Static ain't always noise | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Static-ain't-always-noise.md) |
 
 ### Reverse Engineering
 | Challenge | Difficulty | Writeup |
