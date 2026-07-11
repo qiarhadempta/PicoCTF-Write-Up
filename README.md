@@ -45,6 +45,7 @@ Note: English is my second language, so I use AI at some point to correct my gra
 | Hidden in Plainsight | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Forensic/Easy/Hidden-in-Plainsight.md) |
 | Riddle Registry | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Forensic/Easy/Riddle-Registry.md) |
 | Scan Surprise | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Easy/Scan-Surprise.md) |
+| Verify | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Easy/Verify.md)
 | So Meta | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Forensic/Medium/So-Meta.md) |
 
 ### General Skills
