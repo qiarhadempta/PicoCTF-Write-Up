@@ -57,6 +57,7 @@ Note: English is my second language, so I use AI at some point to correct my gra
 | Piece by Piece | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Piece-by-Piece.md) |
 | Commitment Issues | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Commitment-Issues.md) |
 | Static ain't always noise | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Static-ain't-always-noise.md) |
+| Tab, Tab, Attack | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Tab-Tab-Attack.md) |
 
 ### Reverse Engineering
 | Challenge | Difficulty | Writeup |
