@@ -18,4 +18,6 @@ in the first order.
 
 base64, hex, url decode, rot13
 
+Flag: `picoCTF{nested_enc0ding_f3a24f73}`
+
 update soon
