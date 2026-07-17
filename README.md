@@ -24,6 +24,7 @@ Note: English is my second language, so I use AI at some point to correct my gra
 | Mini RSA | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Mini-RSA) |
 | Crack the Power | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Crack-the-Power) |
 | HideToSee | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/HideToSee) |
+| miniRSA | Hard | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Cryptography/Hard/miniRSA.md) | 
 
 ### Web Exploitation
 | Challenge | Difficulty | Writeup |
