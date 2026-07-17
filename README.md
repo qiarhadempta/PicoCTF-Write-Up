@@ -47,7 +47,7 @@ Note: English is my second language, so I use AI at some point to correct my gra
 | Riddle Registry | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Forensic/Easy/Riddle-Registry.md) |
 | Scan Surprise | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Easy/Scan-Surprise.md) |
 | Verify | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Easy/Verify.md)
-| Flag in Flame | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Easy/Flag-in-Flame.md) |
+| Flag in Flame | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Easy/Flag-in-Flame.md) |
 | So Meta | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Forensic/Medium/So-Meta.md) |
 
 ### General Skills
