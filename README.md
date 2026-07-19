@@ -69,5 +69,6 @@ Note: English is my second language, so I use AI at some point to correct my gra
 |-----------|------------|---------|
 | Safe Opener | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/ReverseEngineering/Medium/Safe-Opener.md) |
 | Safe Opener 2 | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/ReverseEngineering/Medium/Safe-Opener2.md) |
+| Reverse | Medium | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/ReverseEngineering/Medium/Reverse.md) | 
 
 ---
