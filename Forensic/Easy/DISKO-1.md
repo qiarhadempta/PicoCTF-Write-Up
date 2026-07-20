@@ -1,4 +1,4 @@
-# Disko 1
+# DISKO 1
 ## Challenge Overview
 Can you find the flag in this disk image?
 
