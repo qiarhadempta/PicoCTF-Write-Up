@@ -9,7 +9,7 @@ Challenge link: https://learn.cylabacademy.org/library/114?page=2&difficulty=3&c
 
 ## Solution
 In this challenge, we are given an alphabet (as a key) and an encrypted message to decrypt. We also given a python script that tells us that the message is decrypted with
-[playfair](https://www.geeksforgeeks.org/dsa/playfair-cipher-with-examples/) cipertext. So, to decrypt the message, I'm using [this]() python script
+[playfair](https://www.geeksforgeeks.org/dsa/playfair-cipher-with-examples/) cipertext. So, to decrypt the message, I'm using [this](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Cryptography/Hard/Play-Nice/solver.py) python script
 
 <img width="787" height="147" alt="Screenshot 2026-07-18 220938" src="https://github.com/user-attachments/assets/bb56af14-92db-46d3-92a2-afbc7b6e2892" />
 
