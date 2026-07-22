@@ -16,62 +16,60 @@ Note: English is my second language, so I use AI at some point to correct my gra
 ### Cryptography
 | Challenge | Difficulty | Writeup |
 |-----------|------------|---------|
-| Hashcrack | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Cryptography/Easy/Hashcrack.md) |
-| StegoRSA | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Cryptography/Easy/Stego-RSA.md) |
-| Substitution 0 | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Cryptography/Medium/substitution0.md) |
-| Substitution 1 | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Cryptography/Medium/substitution1.md) |
-| Mind Your Ps and Qs | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Mind-Your-Ps-and-Qs) |
-| Mini RSA | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Mini-RSA) |
-| Crack the Power | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Crack-the-Power) |
-| HideToSee | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/HideToSee) |
-| miniRSA | Hard | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Cryptography/Hard/miniRSA.md) | 
-| college-rowing-team | Hard | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Cryptography/Hard/college-rowing-team.md) |
-| Play Nice | Hard | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/tree/main/Cryptography/Hard/Play-Nice) |
+| Hashcrack | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Cryptography/Easy/Hashcrack.md) |
+| StegoRSA | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Cryptography/Easy/Stego-RSA.md) |
+| Substitution 0 | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Cryptography/Medium/substitution0.md) |
+| Substitution 1 | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Cryptography/Medium/substitution1.md) |
+| Mind Your Ps and Qs | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Mind-Your-Ps-and-Qs) |
+| Mini RSA | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Mini-RSA) |
+| Crack the Power | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Crack-the-Power) |
+| HideToSee | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/HideToSee) |
+| miniRSA | ![Hard](https://img.shields.io/badge/Hard-red) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Cryptography/Hard/miniRSA.md) | 
+| college-rowing-team | ![Hard](https://img.shields.io/badge/Hard-red) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Cryptography/Hard/college-rowing-team.md) |
+| Play Nice | ![Hard](https://img.shields.io/badge/Hard-red) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/tree/main/Cryptography/Hard/Play-Nice) |
 
 ### Web Exploitation
 | Challenge | Difficulty | Writeup |
 |-----------|------------|---------|
-| Insp3ct0r | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/Insp3ct0r.md) |
-| Unminify | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/WebExploitation/Easy/Unminify.md) |
-| WebDecode | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/WebDecode.md) |
-| Old Seessions | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/Old-Sesions.md) |
-| Crack the Gate 1 | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/Crack-the-Gate-1.md) |
-| Head Dump | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/Head-Dump.md) |
-| Cookies | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/Cookies.md) | 
-| logon | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/WebExploitation/Easy/logon.md) | 
-| No FA | Medium | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/tree/main/WebExploitation/Medium) |
-| Crack the Gate 2 | Medium | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/WebExploitation/Medium/Crack-the-Gate-2.md) |
-| Secret Box | Medium | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/WebExploitation/Medium/Secret-Box.md) |
+| Insp3ct0r | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/Insp3ct0r.md) |
+| Unminify | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/WebExploitation/Easy/Unminify.md) |
+| WebDecode | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/WebDecode.md) |
+| Old Seessions | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/Old-Sesions.md) |
+| Crack the Gate 1 | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/Crack-the-Gate-1.md) |
+| Head Dump | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/Head-Dump.md) |
+| Cookies | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/WebExploitation/Easy/Cookies.md) | 
+| logon | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/WebExploitation/Easy/logon.md) | 
+| No FA | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/tree/main/WebExploitation/Medium) |
+| Crack the Gate 2 | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/WebExploitation/Medium/Crack-the-Gate-2.md) |
+| Secret Box | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/WebExploitation/Medium/Secret-Box.md) |
 
 ### Forensic
 | Challenge | Difficulty | Writeup |
 |-----------|------------|---------|
-| Hidden in Plainsight | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Forensic/Easy/Hidden-in-Plainsight.md) |
-| Riddle Registry | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Forensic/Easy/Riddle-Registry.md) |
-| Scan Surprise | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Easy/Scan-Surprise.md) |
-| Verify | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Easy/Verify.md) |
-| DISKO 1 | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Easy/DISKO-1.md) |
-| Flag in Flame | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Easy/Flag-in-Flame.md) |
-| So Meta | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Forensic/Medium/So-Meta.md) |
+| Hidden in Plainsight | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Forensic/Easy/Hidden-in-Plainsight.md) |
+| Riddle Registry | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Forensic/Easy/Riddle-Registry.md) |
+| Scan Surprise | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Easy/Scan-Surprise.md) |
+| Verify | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Easy/Verify.md) |
+| DISKO 1 | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Easy/DISKO-1.md) |
+| Flag in Flame | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Easy/Flag-in-Flame.md) |
+| So Meta | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Forensic/Medium/So-Meta.md) |
 
 ### General Skills
 | Challenge | Difficulty | Writeup |
 |-----------|------------|---------|
-| Log Hunt | Easy | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/GeneralSkills/Easy/Log-Hunt.md) |
-| Codebook | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Codebook.md) |
-| Magikarp Ground Mission | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Magikarp-Ground-Mission.md) |
-| Piece by Piece | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Piece-by-Piece.md) |
-| Multicode | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Multicode.md) | 
-| Commitment Issues | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Commitment-Issues.md) |
-| Blame Game | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Blame-Game.md) |
-| Static ain't always noise | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Static-ain't-always-noise.md) |
-| Tab, Tab, Attack | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Tab-Tab-Attack.md) |
+| Log Hunt | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/GeneralSkills/Easy/Log-Hunt.md) |
+| Codebook | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Codebook.md) |
+| Magikarp Ground Mission | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Magikarp-Ground-Mission.md) |
+| Piece by Piece | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Piece-by-Piece.md) |
+| Multicode | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Multicode.md) | 
+| Commitment Issues | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Commitment-Issues.md) |
+| Blame Game | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Blame-Game.md) |
+| Static ain't always noise | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Static-ain't-always-noise.md) |
+| Tab, Tab, Attack | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Tab-Tab-Attack.md) |
 
 ### Reverse Engineering
 | Challenge | Difficulty | Writeup |
 |-----------|------------|---------|
-| Safe Opener | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/ReverseEngineering/Medium/Safe-Opener.md) |
-| Safe Opener 2 | Medium | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/ReverseEngineering/Medium/Safe-Opener2.md) |
-| Reverse | Medium | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/ReverseEngineering/Medium/Reverse.md) | 
-
----
+| Safe Opener | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/ReverseEngineering/Medium/Safe-Opener.md) |
+| Safe Opener 2 | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/ReverseEngineering/Medium/Safe-Opener2.md) |
+| Reverse | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/ReverseEngineering/Medium/Reverse.md) |
