@@ -41,6 +41,7 @@ Note: English is my second language, so I use AI at some point to correct my gra
 | logon | Easy | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/WebExploitation/Easy/logon.md) | 
 | No FA | Medium | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/tree/main/WebExploitation/Medium) |
 | Crack the Gate 2 | Medium | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/WebExploitation/Medium/Crack-the-Gate-2.md) |
+| Secret Box | Medium | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/WebExploitation/Medium/Secret-Box.md) |
 
 ### Forensic
 | Challenge | Difficulty | Writeup |
