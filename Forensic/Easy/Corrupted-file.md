@@ -12,33 +12,29 @@ Challenge link: https://learn.cylabacademy.org/library/519?page=4
 
 ## Solutions
 
-Based on the hints, I checked the file header's and found out that the header is not in JPEG standard. In JPEG standards, the header/file magic number usually starts with 
-```bash
-ffd8 ffe0 0010 4a46 4946 0001 0101 0047 ......JFIF.....G ffd8
-```
+Based on the hints, I checked the file header and found that it does not match the standard JPEG format. Standard JPEG files typically begin with the magic bytes `FF D8 FF E0` or `FF D8 FF E1`. However, inspecting the provided file revealed that it starts with `5C 78`, which corresponds to the ASCII representation of `\x` and indicates corrupted or misencoded header bytes.
 
-But in the file we have, the header starts with `5c 78`, which was wrong encoding for JPEG
 <img width="1038" height="531" alt="image" src="https://github.com/user-attachments/assets/ff6e920c-ef76-459e-9780-74ac581290dc" />
 
-So to solve this challenge, the first thing I did was open the hexeditor
+So to solve this challenge, I opened the file using hexeditor:
 ```bash
 hexeditor file
 ```
 
-and then I changed the first 2 hex `5C 78` into `FF D8`
+Then I changed the first two bytes (`5C 78`) with the correct JPEG header bytes (`FF D8`)
 
-<img width="1063" height="522" alt="image" src="https://github.com/user-attachments/assets/c80255e4-ac5b-4fcd-a028-157e294c7b5c" />
-(before)
+![Corrupted Header (Before)](https://github.com/user-attachments/assets/c80255e4-ac5b-4fcd-a028-157e294c7b5c)
+*(Before: Corrupted Header)*
 
-<img width="1124" height="677" alt="image" src="https://github.com/user-attachments/assets/05407df5-7edb-4a60-806a-12a1d0f61cdf" />
-(after)
+![Repaired Header (After)](https://github.com/user-attachments/assets/05407df5-7edb-4a60-806a-12a1d0f61cdf)
+*(After: Repaired Header)*
 
-Save the file, and lastly, rename the file back to JPG file
+Save the file and rename the file back to JPG file
 ```bash
 mv file repaired.jpg
 ```
 
-We can check the flag in `repaired.jpg` 
+Finally, opening `repaired.jpg` displayed the restored image containing the flag.
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/8d825ed6-e0ee-4a7a-a4b6-822e640d10b9" />
 
 Flag: `picoCTF{r3st0r1ng_th3_by73s_0e8fb0ec}`
