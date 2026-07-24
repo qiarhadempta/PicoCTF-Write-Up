@@ -1,3 +1,4 @@
+# Corrupted file
 ## Challenge Overview
 This file seems broken... or is it? Maybe a couple of bytes could make all the difference. Can you figure out how to bring it back to life?
 
